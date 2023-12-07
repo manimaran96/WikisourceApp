@@ -19,7 +19,7 @@ class SearchViewModel : ViewModel() {
         viewModelScope.launch {
             try {
                 apiLoading.value = true
-                val apiData = ApiClient.get(context, code).searchBooks(term).body()
+                val apiData = ApiClient.get(code).searchBooks(term).body()
                 val nameList = apiData?.filterIsInstance<List<String>>()?.elementAt(0)
                 val urlList = apiData?.filterIsInstance<List<String>>()?.elementAt(2)
                 val resData = ArrayList<BookListItem>()

@@ -44,9 +44,9 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun initLiveDataObservers() {
-        viewModel.languageData.observe(this@MainActivity, {
+        viewModel.languageData.observe(this@MainActivity) {
             setupLanguageSpinner()
-        })
+        }
         viewModel.fetchLanguages(applicationContext)
     }
 

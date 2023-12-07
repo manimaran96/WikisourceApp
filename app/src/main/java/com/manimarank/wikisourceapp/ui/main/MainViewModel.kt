@@ -20,7 +20,7 @@ class MainViewModel: ViewModel() {
             var list: List<LanguageData>? = null
             try {
                 apiLoading.value = true
-                val languageResponse = ApiClient.get(context).fetchWikiLanguages()
+                val languageResponse = ApiClient.get().fetchWikiLanguages()
                 list = languageResponse.body()?.languageData
             } catch (e: Exception) {
                 e.printStackTrace()

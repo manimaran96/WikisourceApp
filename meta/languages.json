@@ -1,0 +1,22 @@
+{
+  "languages": [
+    {
+      "code": "ta",
+      "name": "Tamil",
+      "local_name": "தமிழ்",
+      "dir": "ltr"
+    },
+    {
+      "code": "en",
+      "name": "English",
+      "local_name": "English",
+      "dir": "ltr"
+    },
+    {
+      "code": "bn",
+      "name": "Bengali",
+      "local_name": "বাংলা",
+      "dir": "ltr"
+    }
+  ]
+}

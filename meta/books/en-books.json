@@ -4,16 +4,18 @@
       "name": "The Chronicle of Clemendy",
       "author": "சிவகுமாரி ஆவுடையப்பன்",
       "image": "https://freetamilebooks.com/wp-content/uploads/2023/01/cover-4.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95/?tmstv=1695350509",
-      "category": "அனுபவங்கள், சிறுகதை",
+      "url": "https://freetamilebooks.com/download/%e0%ae%b5%e0%ae%be%e0%ae%b4%e0%af%8d%e0%ae%95%e0%af%8d%e0%ae%95%e0%af%88%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%a9%e0%af%8d-%e0%ae%b5%e0%ae%bf%e0%ae%a9%e0%ae%be%e0%ae%95%e0%af%8d%e0%ae%95/?tmstv=1695350509",
+      "format": "epub",
+      "categories": "அனுபவங்கள், சிறுகதை",
       "source_url": "https://en.wikisource.org/wiki/The_Chronicle_of_Clemendy"
     },
     {
       "name": "எளிய தமிழில் Pandas - English",
       "author": "து. நித்யா",
       "image": "https://freetamilebooks.com/wp-content/uploads/2022/12/cover-2.jpg",
-      "epub": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-pandas-epub/?tmstv=1694842650",
-      "category": "கணினி அறிவியல்",
+      "url": "https://freetamilebooks.com/download/%e0%ae%8e%e0%ae%b3%e0%ae%bf%e0%ae%af-%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%ae%bf%e0%ae%b2%e0%af%8d-pandas-epub/?tmstv=1694842650",
+      "format": "epub",
+      "categories": "கணினி அறிவியல்",
       "source_url": "https://ta.wikisource.org/s/b48x"
     }
   ]

@@ -17,13 +17,13 @@
     },
     {
       "code":"ml",
-      "lang":"Malayalam",
-      "local_lang":"മലയാളം"
+      "name":"Malayalam",
+      "local_name":"മലയാളം"
     },
     {
       "code":"ur",
-      "lang":"Urdu",
-      "local_lang":"اردو",
+      "name":"Urdu",
+      "local_name":"اردو",
       "dir":"rtl"
     }
   ]

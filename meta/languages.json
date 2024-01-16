@@ -3,20 +3,28 @@
     {
       "code": "ta",
       "name": "Tamil",
-      "local_name": "தமிழ்",
-      "dir": "ltr"
+      "local_name": "தமிழ்"
     },
     {
       "code": "en",
       "name": "English",
-      "local_name": "English",
-      "dir": "ltr"
+      "local_name": "English"
     },
     {
       "code": "bn",
       "name": "Bengali",
-      "local_name": "বাংলা",
-      "dir": "ltr"
-    }
+      "local_name": "বাংলা"
+    },
+    {
+      "code":"ml",
+      "lang":"Malayalam",
+      "local_lang":"മലയാളം",
+    },
+    {
+      "code":"ur",
+      "lang":"Urdu",
+      "local_lang":"اردو",
+      "dir":"rtl"
+    },
   ]
 }
